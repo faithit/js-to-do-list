@@ -1,0 +1,12 @@
+.completed{
+    text-decoration: line-through;
+    color:red
+}
+.deletebutton{
+    padding: 5px 10px;
+    background-color:#ff0000; /* Red */
+    color: white;
+    margin-left: 5px;
+    border:none;
+    border-radius: 3px
+}
